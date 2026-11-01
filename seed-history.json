@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2026-10-28_push_jan",
+    "date": "2026-10-28",
+    "day": "push",
+    "prog": "jan",
+    "mode": "gym",
+    "status": "done",
+    "notes": "",
+    "info": {},
+    "updated": "2026-10-28T07:34:51.764Z",
+    "logs": {
+      "db-chest-press": [{"kg":12,"reps":12,"done":true},{"kg":12,"reps":12,"done":true},{"kg":12,"reps":12,"done":true}],
+      "db-chest-fly": [{"kg":10,"reps":12,"done":true},{"kg":10,"reps":12,"done":true},{"kg":10,"reps":12,"done":true}],
+      "db-seated-shoulder-press": [{"kg":10,"reps":10,"done":true},{"kg":10,"reps":10,"done":true},{"kg":10,"reps":10,"done":true}]
+    }
+  }
+]
